@@ -1,0 +1,5 @@
+
+TILE = 100
+FPS = 60
+SPEED = 1
+PLAYER_SIZE = TILE - 10
